@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-
+import "../../styles/style.css"
 export class Banner extends Component {
 
     render() {

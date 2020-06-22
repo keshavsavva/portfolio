@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import linkedIn from './linkedInIcon.png'
-
+import "../../styles/style.css"
 export class Footer extends Component {
     render() {
         return (
