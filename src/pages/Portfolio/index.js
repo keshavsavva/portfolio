@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Banner from '../../components/Banner';
-import "../../styles/style.css"
+import "../../styles/output.css"
 import codingQuiz from './codingQuiz.png'
 import eat from './EatDaBurger.png'
 import eHub from './eventHub.png'
