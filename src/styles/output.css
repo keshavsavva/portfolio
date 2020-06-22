@@ -79,15 +79,23 @@ nav a:last-child {
   margin-top: 2%;
 }
 
+.tech {
+  width: 50px;
+}
+
 .main-container h1 {
-  font-size: 24px;
+  font-size: 36px;
   color: #2a2e28;
   text-shadow: 1px 1px 10px white;
   padding: 10px 0;
   border-bottom: 2px solid #666;
 }
 
-.main-container img {
+.main-container span {
+  font-size: 24px;
+}
+
+.mainPic {
   float: left;
   margin-right: 2%;
 }
