@@ -17,7 +17,7 @@ export class Portfolio extends Component {
                 </div>
                 </div>
                 <div class="row">
-                    <Banner link="https://keshavsavva.github.io/Team3/" image={eHub} name="EventHub" />
+                    <Banner link="https://keshavsavva.github.io/EventHub/" image={eHub} name="EventHub" />
                     <Banner link="https://limitless-chamber-20765.herokuapp.com/landing.html" image={qStream} name="QuaranStream" />
                 </div>
                 <div class="row">
