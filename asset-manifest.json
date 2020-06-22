@@ -1,20 +1,31 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.f0a657aa.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.f0a657aa.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.def16884.chunk.css",
+    "main.js": "/portfolio/static/js/main.725b2779.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.725b2779.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.cdee8bff.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.cdee8bff.js.map",
-    "static/js/2.a917a2cc.chunk.js": "/portfolio/static/js/2.a917a2cc.chunk.js",
-    "static/js/2.a917a2cc.chunk.js.map": "/portfolio/static/js/2.a917a2cc.chunk.js.map",
+    "static/js/2.3b5b2840.chunk.js": "/portfolio/static/js/2.3b5b2840.chunk.js",
+    "static/js/2.3b5b2840.chunk.js.map": "/portfolio/static/js/2.3b5b2840.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.2a8182b04b4796127ab0f8dc4a5605c1.js": "/portfolio/precache-manifest.2a8182b04b4796127ab0f8dc4a5605c1.js",
+    "precache-manifest.b7ff2e6421010a718d90166ed86fb740.js": "/portfolio/precache-manifest.b7ff2e6421010a718d90166ed86fb740.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/js/2.a917a2cc.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a917a2cc.chunk.js.LICENSE.txt",
-    "static/media/linkedInIcon.png": "/portfolio/static/media/linkedInIcon.95035723.png"
+    "static/css/main.def16884.chunk.css.map": "/portfolio/static/css/main.def16884.chunk.css.map",
+    "static/js/2.3b5b2840.chunk.js.LICENSE.txt": "/portfolio/static/js/2.3b5b2840.chunk.js.LICENSE.txt",
+    "static/media/EatDaBurger.png": "/portfolio/static/media/EatDaBurger.fd182961.png",
+    "static/media/style.css": "/portfolio/static/media/IMG_0136.e2bc9dbc.JPG",
+    "static/media/codingQuiz.png": "/portfolio/static/media/codingQuiz.69eb99dd.png",
+    "static/media/eventHub.png": "/portfolio/static/media/eventHub.802d45c6.png",
+    "static/media/headshot.jpg": "/portfolio/static/media/headshot.465cfe27.jpg",
+    "static/media/linkedInIcon.png": "/portfolio/static/media/linkedInIcon.95035723.png",
+    "static/media/passGen.png": "/portfolio/static/media/passGen.e1b988b2.png",
+    "static/media/quaranstreamLogo.png": "/portfolio/static/media/quaranstreamLogo.b3143892.png",
+    "static/media/workDay.png": "/portfolio/static/media/workDay.d9355d29.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cdee8bff.js",
-    "static/js/2.a917a2cc.chunk.js",
-    "static/js/main.f0a657aa.chunk.js"
+    "static/js/2.3b5b2840.chunk.js",
+    "static/css/main.def16884.chunk.css",
+    "static/js/main.725b2779.chunk.js"
   ]
 }
