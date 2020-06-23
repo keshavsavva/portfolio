@@ -36,7 +36,7 @@ export class Home extends Component {
                                 <a href="https://www.linkedin.com/in/keshav-a-a2871393/">
                                     <LinkedInIcon className="icon1" fontSize="large"/>
                                 </a>
-                                <a href="https://drive.google.com/file/d/1M4bGbBCHaYMBLEJKsjOUE141o7zDqJ_i/view?usp=sharing">
+                                <a href="https://drive.google.com/file/d/1JE8D7i6qQc2d9EnRE343eico7PWoV-uS/view?usp=sharing">
                                     <DescriptionIcon className="icon1" fontSize="large"/>
                                 </a>
                                 <a href="https://github.com/keshavsavva">

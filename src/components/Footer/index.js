@@ -17,7 +17,7 @@ export class Footer extends Component {
                             </a>
                         </div>
                         <div className="col-sm-2">
-                            <a href="https://drive.google.com/file/d/1M4bGbBCHaYMBLEJKsjOUE141o7zDqJ_i/view?usp=sharing">
+                            <a href="https://drive.google.com/file/d/1JE8D7i6qQc2d9EnRE343eico7PWoV-uS/view?usp=sharing">
                                 <DescriptionIcon className="icon" fontSize="large"/>
                             </a>
                         </div>
