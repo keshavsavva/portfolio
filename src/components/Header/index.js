@@ -14,7 +14,7 @@ export class Header extends Component {
                             <nav>
                                 <Link to="/">About</Link>
                                 <Link to="/portfolio">Portfolio</Link>
-                                <Link to="/contact">Contact</Link>
+                                {/* <Link to="/contact">Contact</Link> */}
                             </nav>
                         </div>
                     </div>

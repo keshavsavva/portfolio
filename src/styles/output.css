@@ -37,9 +37,16 @@ header {
 }
 
 .logo:hover {
-  font-size: 25px;
   color: #fff;
   text-decoration: none;
+}
+
+.email {
+  color: #2a2e28;
+}
+
+.email:hover {
+  color: #fff;
 }
 
 nav {
@@ -111,7 +118,7 @@ nav a:last-child {
   /* border: red 1px solid; */
   width: 100%;
   height: 50%;
-  margin-bottom: 52%;
+  margin-bottom: 3%;
 }
 
 .mainPic {

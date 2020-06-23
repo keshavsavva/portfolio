@@ -28,9 +28,11 @@ export class Home extends Component {
                     <div class="row">
                         <div class="col-md-12">
                             <h5>
-                                <EmailIcon />
-                                {" "}
-                                  keshav.s.avva@gmail.com
+                                <a href="mailto:keshav.s.avva@gmail.com" class="email">
+                                    <EmailIcon />
+                                    {" "}
+                                    keshav.s.avva@gmail.com
+                                </a>  
                                 <a href="https://www.linkedin.com/in/keshav-a-a2871393/">
                                     <LinkedInIcon className="icon1" fontSize="large"/>
                                 </a>
