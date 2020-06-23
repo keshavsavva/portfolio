@@ -18,16 +18,16 @@ export class Portfolio extends Component {
                 </div>
                 </div>
                 <div class="row">
-                    <Banner link="https://project3-healthcarepro.herokuapp.com/" image={hcPro} name="HealthCare Pro" /> 
-                    <Banner link="https://limitless-chamber-20765.herokuapp.com/landing.html" image={qStream} name="QuaranStream" />
+                    <Banner link="https://project3-healthcarepro.herokuapp.com/" image={hcPro} name="HealthCare Pro" placement="left-start" GHlink="https://github.com/keshavsavva/Healthcare-Pro" description="A role-based application that helps doctors and patients with the management of healthcare."/> 
+                    <Banner link="https://limitless-chamber-20765.herokuapp.com/landing.html" image={qStream} name="QuaranStream" placement="right-start" GHlink="https://github.com/keshavsavva/QuaranStream" description="QuaranStream: an app for connecting you with content based on your favorite media types and genres"/>
                 </div>
                 <div class="row">
-                    <Banner link="https://keshavsavva.github.io/EventHub/" image={eHub} name="EventHub" />
-                    <Banner link="https://keshavsavva.github.io/Homework5/" image={workDay}name="Work Day Scheduler" />
+                    <Banner link="https://keshavsavva.github.io/EventHub/" image={eHub} name="EventHub" placement="left-start" GHlink="https://github.com/keshavsavva/EventHub" description="EventHub App for finding Public Events based on your location"/>
+                    <Banner link="https://keshavsavva.github.io/Work-Day-Scheduler/" image={workDay}name="Work Day Scheduler" placement="right-start" GHlink="https://github.com/keshavsavva/Work-Day-Scheduler" description="An application for scheduling you Work Day."/>
                 </div>
                 <div class="row">
-                    <Banner link="https://keshavsavva.github.io/Homework4/" image={codingQuiz} name="Coding Quiz" />
-                    <Banner link="https://keshavsavva.github.io/Homework3/" image={passGen} name="Password Generator" />
+                    <Banner link="https://keshavsavva.github.io/Coding-Quiz/" image={codingQuiz} name="Coding Quiz" placement="left-start" GHlink="https://github.com/keshavsavva/Coding-Quiz" description="Test you coding skills here!"/>
+                    <Banner link="https://keshavsavva.github.io/Password-Generator/" image={passGen} name="Password Generator" placement="right-start" GHlink="https://github.com/keshavsavva/Password-Generator" description="Generates a random password based off of your required inputs"/>
                 </div>
             </div>
         )

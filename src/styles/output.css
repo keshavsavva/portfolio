@@ -133,7 +133,7 @@ nav a:last-child {
 
 .text-block {
   position: absolute;
-  top: 150%;
+  bottom: 15%;
   background-color: #2eb375;
   color: white;
   padding: 1px;
@@ -193,6 +193,10 @@ footer {
   color: #2eb375;
 }
 
+.links {
+  color: #2eb375;
+}
+
 .icon1 {
   font-size: 45px !important;
   position: relative;
@@ -201,7 +205,7 @@ footer {
   margin-left: 30px;
 }
 
-.icon:hover, .icon1:hover {
+.icon:hover, .icon1:hover, .links:hover {
   color: #fff;
 }
 

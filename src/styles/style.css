@@ -122,6 +122,7 @@ nav a {
    background-color: #2eb375af;
    color: white;
    padding: 1px;
+   z-index: 1;
    /* border: orange 1px solid; */
    width: 100%;
    text-align: center;
