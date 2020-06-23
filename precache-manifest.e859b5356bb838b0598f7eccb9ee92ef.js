@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d35115e4b884536ab5bf3093d0b7e880",
+    "revision": "5ebc99762a29394ccb4efa9003c71c79",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "27a694adeb86512f6088",
-    "url": "/portfolio/static/css/main.def16884.chunk.css"
+    "revision": "36304fe152bec2326db5",
+    "url": "/portfolio/static/css/main.d3238d38.chunk.css"
   },
   {
-    "revision": "ec9ad766668723826bf4",
-    "url": "/portfolio/static/js/2.3b5b2840.chunk.js"
+    "revision": "6973bde401dba9e4c7d7",
+    "url": "/portfolio/static/js/2.b658317f.chunk.js"
   },
   {
-    "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portfolio/static/js/2.3b5b2840.chunk.js.LICENSE.txt"
+    "revision": "89b0379e7bcda1a468d8b0343aeb4e53",
+    "url": "/portfolio/static/js/2.b658317f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "27a694adeb86512f6088",
-    "url": "/portfolio/static/js/main.725b2779.chunk.js"
+    "revision": "36304fe152bec2326db5",
+    "url": "/portfolio/static/js/main.ed88dec3.chunk.js"
   },
   {
     "revision": "9de41cfd101902630250",
@@ -40,12 +40,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/eventHub.802d45c6.png"
   },
   {
+    "revision": "662d5cfa3002fcea691d25ec0a20deb7",
+    "url": "/portfolio/static/media/hcPro.662d5cfa.png"
+  },
+  {
     "revision": "465cfe2749976b0f4d7a7223a4f54bf3",
     "url": "/portfolio/static/media/headshot.465cfe27.jpg"
   },
   {
-    "revision": "95035723f1218807433a086144608776",
-    "url": "/portfolio/static/media/linkedInIcon.95035723.png"
+    "revision": "5f6ba6aabcf3c6f490ece62c298e7999",
+    "url": "/portfolio/static/media/heroku.5f6ba6aa.png"
+  },
+  {
+    "revision": "69b56261c658b0b30fcd3c8a598e0c19",
+    "url": "/portfolio/static/media/javascript.69b56261.png"
   },
   {
     "revision": "e1b988b2d13f895faaf91b90019456d4",
@@ -54,6 +62,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b3143892fec450372465c01d4bd1b361",
     "url": "/portfolio/static/media/quaranstreamLogo.b3143892.png"
+  },
+  {
+    "revision": "5dbb7240133ee0cda5bc503ad2eaa4f7",
+    "url": "/portfolio/static/media/react.5dbb7240.png"
+  },
+  {
+    "revision": "1535aa30ed0372c2daf5138f117ecc79",
+    "url": "/portfolio/static/media/redux.1535aa30.png"
+  },
+  {
+    "revision": "74c362907475d0d7f0d59d0fb662135c",
+    "url": "/portfolio/static/media/sass.74c36290.png"
   },
   {
     "revision": "d9355d2937db20d4cb97447abdea6e97",
