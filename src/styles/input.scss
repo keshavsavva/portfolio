@@ -2,7 +2,7 @@
     box-sizing: border-box;
   }
 
-$secondary: #2eb375;
+$secondary: #0c8b50;
 $primary:  rgb(42, 46, 40);
 $border: #666;
 $white: #fff;
@@ -14,11 +14,12 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-image: url("./images/IMG_0136.JPG");
+    background-attachment: fixed;
   }
 
 header {
     background-color: $primary;
-    font-family: Georgia, Times, Times New Roman, serif;
+    // font-family: Georgia, Times, Times New Roman, serif;
     height: 60px;
     border-bottom: 2px solid $border;
 }
@@ -27,7 +28,7 @@ header {
     background-color: $secondary;
     color: $primary;
     font-size: 24px;
-    font-weight: bold;
+    // font-weight: bold;
     text-align: center;
     padding: 15.5px;
     position: relative;
@@ -92,9 +93,7 @@ nav a {
     margin-top: 2%;
   }
 
-  .tech {
-      width: 50px;
-  }
+  
   .main-container h1 {
     font-size: 36px;
     color:  rgb(42, 46, 40);
@@ -107,10 +106,7 @@ nav a {
       font-size: 24px;
   }
   
-  .mainPic {
-    float: left;
-    margin-right: 2%;
-  }
+ 
   
   .main-container p {
     color: rgb(0, 0, 0);
@@ -127,9 +123,7 @@ nav a {
     
    
   }
-  .mainPic {
-    width: 30%;
-  }
+ 
   .portImg {
     margin-bottom: 10px;
     width: 100%;
@@ -141,7 +135,7 @@ nav a {
    bottom: 15%;
    background-color: $secondary;
    color: white;
-   padding: 1px;
+   padding: 1em;
    /* border: orange 1px solid; */
    width: 100%;
    text-align: center;

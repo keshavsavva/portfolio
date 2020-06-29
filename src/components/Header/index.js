@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import {Link} from 'react-router-dom';
 import "../../styles/output.css"
+import './style.css'
 export class Header extends Component {
     render() {
         return (

@@ -11,7 +11,7 @@ const HtmlTooltip = withStyles((theme) => ({
       color: '#fff',
       maxWidth: 220,
       fontSize: theme.typography.pxToRem(15),
-      border: '1px solid #2eb375',
+      border: '1px solid #0c8b50',
       textAlign: 'center'
     },
   }))(Tooltip);
@@ -19,7 +19,7 @@ export class Banner extends Component {
 
     render() {
         return (
-            <div class="col-md-6">
+            <div>
                 
                     <HtmlTooltip
                         title={
@@ -35,7 +35,7 @@ export class Banner extends Component {
                                 </a>
                             </React.Fragment>
                         }
-                        placement={this.props.placement}
+                        placement="right"
                         interactive
                     >
                         <div>
@@ -43,7 +43,7 @@ export class Banner extends Component {
                                 <div class="banner">
                                     <img class="portImg" alt = "appicon" src= {this.props.image} />
                                     <div class="text-block">
-                                        {this.props.name}
+                                        <h3>{this.props.name}</h3>
                                     </div>
                                 </div>
                             </a>

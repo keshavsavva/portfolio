@@ -5,15 +5,17 @@ import Footer from './components/Footer';
 import Home from './pages/Home';
 import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
+import Main from './pages/Main'
 
 
 function App() {
     return (
         <HashRouter basename="/">
             <Header />
-                <Route exact path={["/home", "/"]} component={Home} />
+            <Main />
+                {/* <Route exact path={["/home", "/"]} component={Home} />
                 <Route exact path="/portfolio" component={Portfolio} />
-                <Route exact path="/contact" component={Contact} />
+                <Route exact path="/contact" component={Contact} /> */}
             <Footer />
         </HashRouter>
     );

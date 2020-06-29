@@ -1,0 +1,18 @@
+.mainPic {
+    width: 90%;
+}
+
+.tech {
+    height: 50px;
+}
+
+.bio {
+    width: 80%;
+    position: relative;
+    left: 10%;
+}
+
+.parallax {
+    height: 30vh;
+    background-color: #0c8b5055;
+}

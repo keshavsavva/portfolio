@@ -9,20 +9,19 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   background-image: url("./images/IMG_0136.JPG");
+  background-attachment: fixed;
 }
 
 header {
   background-color: #2a2e28;
-  font-family: Georgia, Times, Times New Roman, serif;
   height: 60px;
   border-bottom: 2px solid #666;
 }
 
 .logo {
-  background-color: #2eb375;
+  background-color: #0c8b50;
   color: #2a2e28;
   font-size: 24px;
-  font-weight: bold;
   text-align: center;
   padding: 15.5px;
   position: relative;
@@ -64,7 +63,7 @@ nav a {
 
 nav a:hover {
   text-decoration: none;
-  color: #2eb375;
+  color: #0c8b50;
 }
 
 nav a:last-child {
@@ -86,10 +85,6 @@ nav a:last-child {
   margin-top: 2%;
 }
 
-.tech {
-  width: 50px;
-}
-
 .main-container h1 {
   font-size: 36px;
   color: #2a2e28;
@@ -100,11 +95,6 @@ nav a:last-child {
 
 .main-container span {
   font-size: 24px;
-}
-
-.mainPic {
-  float: left;
-  margin-right: 2%;
 }
 
 .main-container p {
@@ -121,10 +111,6 @@ nav a:last-child {
   margin-bottom: 3%;
 }
 
-.mainPic {
-  width: 30%;
-}
-
 .portImg {
   margin-bottom: 10px;
   width: 100%;
@@ -134,16 +120,16 @@ nav a:last-child {
 .text-block {
   position: absolute;
   bottom: 15%;
-  background-color: #2eb375;
+  background-color: #0c8b50;
   color: white;
-  padding: 1px;
+  padding: 1em;
   /* border: orange 1px solid; */
   width: 100%;
   text-align: center;
 }
 
 button {
-  background-color: #2eb375;
+  background-color: #0c8b50;
 }
 
 .form-control {
@@ -157,10 +143,10 @@ button {
 }
 
 .form-control:focus {
-  box-shadow: 0 0 5px #2eb375;
+  box-shadow: 0 0 5px #0c8b50;
   padding: 3px 0px 3px 3px;
   margin: 5px 1px 3px 0px;
-  border: 1px solid #2eb375;
+  border: 1px solid #0c8b50;
   background-color: rgba(42, 46, 40, 0.25);
 }
 
@@ -190,11 +176,11 @@ footer {
   position: relative;
   top: 50%;
   transform: translateY(-50%);
-  color: #2eb375;
+  color: #0c8b50;
 }
 
 .links {
-  color: #2eb375;
+  color: #0c8b50;
 }
 
 .icon1 {
@@ -229,7 +215,7 @@ footer {
     text-align: center;
     float: none;
     height: 60px;
-    background-color: #2eb375;
+    background-color: #0c8b50;
   }
 
   nav {
