@@ -45,7 +45,8 @@ header {
 }
 
 .email:hover {
-  color: #fff;
+  color: #0c8b50;
+  text-decoration: none;
 }
 
 nav {
@@ -128,10 +129,6 @@ nav a:last-child {
   text-align: center;
 }
 
-button {
-  background-color: #0c8b50;
-}
-
 .form-control {
   background-color: rgba(42, 46, 40, 0.25);
   border: none;
@@ -182,13 +179,10 @@ footer {
 
 .icon1 {
   font-size: 45px !important;
-  position: relative;
-  color: #2a2e28;
-  padding-right: 10px;
-  margin-left: 30px;
+  color: #0c8b50;
 }
 
-.icon:hover, .icon1:hover, .links:hover {
+.icon:hover, .links:hover {
   color: #fff;
 }
 

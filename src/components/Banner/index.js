@@ -35,7 +35,7 @@ export class Banner extends Component {
                                 </a>
                             </React.Fragment>
                         }
-                        placement="right"
+                        placement="bottom"
                         interactive
                     >
                         <div>

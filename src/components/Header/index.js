@@ -217,30 +217,21 @@ export default function Header() {
                         </Typography>
                         <div className={classes.grow} />
                         <div className={classes.sectionDesktop}>
-                            <IconButton color="inherit">
                                 <a
                                 class="nav-link waves-effect waves-light"
                                 href="https://github.com/keshavsavva"
                                 >
                                     <GitHubIcon className={classes.barIcon}/>
                                 </a>
-                            </IconButton>
-                            <IconButton color="inherit">
                                 <a
                                 class="nav-link waves-effect waves-light"
                                 href="https://drive.google.com/file/d/1JE8D7i6qQc2d9EnRE343eico7PWoV-uS/view?usp=sharing"
                                 >
                                     <DescriptionIcon className={classes.barIcon}/>
                                 </a>
-                            </IconButton>
-                            <IconButton color="inherit">
-                                <a
-                                class="nav-link waves-effect waves-light"
-                                href="https://www.linkedin.com/in/keshavsavva/"
-                                >
+                                <a href="https://www.linkedin.com/in/keshavsavva/" class="nav-link waves-effect waves-light">
                                     <LinkedInIcon className={classes.barIcon}/>
                                 </a>
-                            </IconButton>
                         </div>
                         <div className={classes.sectionMobile}>
                             <IconButton

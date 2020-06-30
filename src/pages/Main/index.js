@@ -4,6 +4,7 @@ import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import ArrowDropDownCircleIcon from '@material-ui/icons/ArrowDropDownCircle';
 import Portfolio from '../Portfolio';
 import About from '../About';
+import Contact from '../Contact';
 import streakPhoto from './IMG_0836.jpg'
 
 export class Main extends Component {
@@ -34,7 +35,7 @@ export class Main extends Component {
                 <section className='text-center section feature-box py-5 ' id="contact">
                     <div className='container'>
                         <h2 className="my-4 display-4">Contact <span class='font-weight-bold greenText'>Me</span></h2>
-                        <p className='mb-5'>Web Developer with a background in project engineering and academic research with strong problem-solving and  leadership skills. An excellent communicator and collaborator who also  works well on team-based projects with very strong interpersonal skills. </p>
+                        <Contact />
                     </div>
                 </section>
                 
