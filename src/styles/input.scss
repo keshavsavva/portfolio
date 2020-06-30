@@ -183,10 +183,7 @@ nav a {
   }
 
   .icon {
-    font-size: 30px;
-    position: relative;
-    top: 50%;
-    transform: translateY(-50%);
+    font-size: 30px !important;
     color: $secondary;
   }
   .links {

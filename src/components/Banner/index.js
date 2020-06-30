@@ -42,9 +42,9 @@ export class Banner extends Component {
                             <a href={this.props.link}>
                                 <div class="banner">
                                     <img class="portImg" alt = "appicon" src= {this.props.image} />
-                                    <div class="text-block">
+                                    {/* <div class="text-block">
                                         <h3>{this.props.name}</h3>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </a>
                         </div>
