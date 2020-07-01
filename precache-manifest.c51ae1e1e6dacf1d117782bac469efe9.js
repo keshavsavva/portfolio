@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16f9a579b9d39a61575f219a26405948",
+    "revision": "359ebcfc4b97d1956b4042bdd5721d19",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "e2bc62ac6755a3a6256a",
-    "url": "/portfolio/static/css/main.d3238d38.chunk.css"
+    "revision": "ac772990266317f0813d",
+    "url": "/portfolio/static/css/main.c2d26929.chunk.css"
   },
   {
-    "revision": "6973bde401dba9e4c7d7",
-    "url": "/portfolio/static/js/2.b658317f.chunk.js"
+    "revision": "4c393b730a9b3127c7bc",
+    "url": "/portfolio/static/js/2.41b02a13.chunk.js"
   },
   {
-    "revision": "89b0379e7bcda1a468d8b0343aeb4e53",
-    "url": "/portfolio/static/js/2.b658317f.chunk.js.LICENSE.txt"
+    "revision": "98d85cc27e012592153843ef531b25bd",
+    "url": "/portfolio/static/js/2.41b02a13.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e2bc62ac6755a3a6256a",
-    "url": "/portfolio/static/js/main.ec4d6555.chunk.js"
+    "revision": "ac772990266317f0813d",
+    "url": "/portfolio/static/js/main.59112570.chunk.js"
   },
   {
     "revision": "9de41cfd101902630250",
@@ -32,8 +32,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/IMG_0136.e2bc9dbc.JPG"
   },
   {
+    "revision": "e94435631510b74b551e4f0eafabb6aa",
+    "url": "/portfolio/static/media/IMG_0836.e9443563.jpg"
+  },
+  {
     "revision": "69eb99dd6a5925dfe6f2933125b8aa40",
     "url": "/portfolio/static/media/codingQuiz.69eb99dd.png"
+  },
+  {
+    "revision": "20f35dee0590c0f67907d7615ba73095",
+    "url": "/portfolio/static/media/collab.20f35dee.png"
+  },
+  {
+    "revision": "7fcefb4fb4fa98acb1b45511cf0de308",
+    "url": "/portfolio/static/media/communication.7fcefb4f.png"
+  },
+  {
+    "revision": "48861bff4da977a5183c5db1d6eb76c7",
+    "url": "/portfolio/static/media/creative.48861bff.png"
   },
   {
     "revision": "802d45c61cca9d25392329bf77b7abb3",
@@ -58,6 +74,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e1b988b2d13f895faaf91b90019456d4",
     "url": "/portfolio/static/media/passGen.e1b988b2.png"
+  },
+  {
+    "revision": "c3ec0acca93b90f585dd5eaaa0aea7a0",
+    "url": "/portfolio/static/media/presentation.c3ec0acc.png"
+  },
+  {
+    "revision": "b4ccc0624612e418061747de3c06e1ab",
+    "url": "/portfolio/static/media/problem.b4ccc062.png"
   },
   {
     "revision": "b3143892fec450372465c01d4bd1b361",
