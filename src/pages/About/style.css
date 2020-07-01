@@ -1,5 +1,6 @@
 .mainPic {
     width: 90%;
+
 }
 
 .tech {
@@ -12,7 +13,18 @@
     left: 10%;
 }
 
+.paper {
+    background: rgb(219, 219, 219) !important;
+}
 .parallax {
     height: 30vh;
     background-color: #0c8b5055;
 }
+
+@media only screen and (max-width: 992px) {
+    .mainPic {
+      width: auto;
+      height: 90%;
+    }
+  }
+  

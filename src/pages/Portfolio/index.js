@@ -24,7 +24,7 @@ export class Portfolio extends Component {
                         <Banner link="https://keshavsavva.github.io/EventHub/" image={eHub} name="EventHub" GHlink="https://github.com/keshavsavva/EventHub" description="EventHub App for finding Public Events based on your location"/> 
                     </Carousel.Item>
                     <Carousel.Item>
-                        <Banner link="https://keshavsavva.github.io/Work-Day-Scheduler/" image={workDay}name="Work Day Scheduler" GHlink="https://github.com/keshavsavva/Work-Day-Scheduler" description="An application for scheduling you Work Day."/> 
+                        <Banner link="https://keshavsavva.github.io/Work-Day-Scheduler/" image={workDay} name="Work Day Scheduler" GHlink="https://github.com/keshavsavva/Work-Day-Scheduler" description="An application for scheduling you Work Day."/> 
                     </Carousel.Item>
                     <Carousel.Item>
                         <Banner link="https://keshavsavva.github.io/Coding-Quiz/" image={codingQuiz} name="Coding Quiz" GHlink="https://github.com/keshavsavva/Coding-Quiz" description="Test you coding skills here!"/>
