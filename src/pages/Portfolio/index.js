@@ -13,7 +13,7 @@ export class Portfolio extends Component {
     render() {
         return (
             <div>
-                <Carousel>
+                <Carousel className="carousel-fade">
                     <Carousel.Item>
                         <Banner link="https://project3-healthcarepro.herokuapp.com/" image={hcPro} name="HealthCare Pro" GHlink="https://github.com/keshavsavva/Healthcare-Pro" description="A role-based application that helps doctors and patients with the management of healthcare."/> 
                     </Carousel.Item>
