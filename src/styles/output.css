@@ -147,19 +147,6 @@ nav a:last-child {
   background-color: rgba(42, 46, 40, 0.25);
 }
 
-footer {
-  position: fixed;
-  /* border-top: 8px solid #2eb375; */
-  bottom: 0;
-  width: 100%;
-  height: auto;
-  padding: 12px 0;
-  /* background-color: rgb(42, 46, 40); */
-  color: #fff;
-  text-align: center;
-  font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
-}
-
 .right {
   float: left;
 }

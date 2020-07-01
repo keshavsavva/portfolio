@@ -12,6 +12,11 @@
     background-color: #fff;
 }
 
+#footer {
+    background-color: #0c8b50;
+    color: #fff
+}
+
 .homeInfo {
     position: relative;
     top: 45%;

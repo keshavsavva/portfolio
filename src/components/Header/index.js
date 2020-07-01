@@ -31,8 +31,7 @@ const useStyles = makeStyles((theme) => ({
         [theme.breakpoints.up('sm')]: {
             display: 'block',
         },
-        position: "relative",
-        left: "2.5%"
+        position: "relative"
     },
     sectionDesktop: {
         display: 'none',

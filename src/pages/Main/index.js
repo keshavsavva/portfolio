@@ -5,6 +5,7 @@ import ArrowDropDownCircleIcon from '@material-ui/icons/ArrowDropDownCircle';
 import Portfolio from '../Portfolio';
 import About from '../About';
 import Contact from '../Contact';
+import Footer from '../../components/Footer';
 import streakPhoto from './IMG_0836.jpg'
 
 export class Main extends Component {
@@ -38,7 +39,9 @@ export class Main extends Component {
                         <Contact />
                     </div>
                 </section>
-                
+                <section className='text-center section feature-box py-5 ' id="footer">
+                    <Footer />
+                </section>
             </div>
         )
     }
