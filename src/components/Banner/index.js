@@ -3,6 +3,7 @@ import "../../styles/output.css"
 import Tooltip from '@material-ui/core/Tooltip';
 import { withStyles, makeStyles } from '@material-ui/core/styles';
 import Typography from '@material-ui/core/Typography';
+import "../../pages/Portfolio/style.css"
 
 
 const HtmlTooltip = withStyles((theme) => ({
@@ -41,7 +42,7 @@ export class Banner extends Component {
                         <div>
                             <a href={this.props.link}>
                                 <div class="banner">
-                                    <img class="portImg" alt = "appicon" src= {this.props.image} />
+                                    <img className="portImg zoom" alt = "appicon" src= {this.props.image} />
                                     {/* <div class="text-block">
                                         <h3>{this.props.name}</h3>
                                     </div> */}
