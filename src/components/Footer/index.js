@@ -35,7 +35,7 @@ export class Footer extends Component {
                                     <a
                                     href="https://www.linkedin.com/in/keshavsavva/"
                                     >
-                                        <GitHubIcon className="footerIcon"/>
+                                        <LinkedInIcon className="footerIcon"/>
                                     </a>
                                 </div>
                             </div>
