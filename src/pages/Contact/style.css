@@ -1,0 +1,10 @@
+.finish {
+    float: left;
+    background-color: #0c8b50;
+    transition: background-color .5s, color .5s;
+}       
+
+.finish:hover {
+    background-color: #b9eed5;
+    color: rgb(42, 46, 40);
+}

@@ -53,6 +53,7 @@ const useStyles = makeStyles((theme) => ({
         backgroundColor: "transparent",
         display: "block",
         padding: ".5rem 1rem",
+        transition: "color .3s",
         "&:hover": {
             textDecoration: "none",
             color: "#0c8b50"
@@ -65,6 +66,7 @@ const useStyles = makeStyles((theme) => ({
         color: "#fff",
         backgroundColor: "transparent",
         display: "block",
+        transition: "color .3s",
         "&:hover": {
             textDecoration: "none",
             color: "#0c8b50"
@@ -72,8 +74,10 @@ const useStyles = makeStyles((theme) => ({
     },
     menu: {
         background: "rgb(42, 46, 40)",
+        transition: "color .3s, background .3s !important",
         "&:hover": {
-            color: "#0c8b50 !important"
+            color:  "#0c8b50 !important",
+            background: "#fff !important"
         }
     },
     barIcon: {
@@ -81,6 +85,7 @@ const useStyles = makeStyles((theme) => ({
         bottom: "5px",
         fontSize: "24px !important",
         color: "#0c8b50",
+        transition: "color .3s",
         "&:hover": {
             color: "#fff"
         }

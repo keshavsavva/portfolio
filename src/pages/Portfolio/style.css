@@ -1,8 +1,8 @@
 .zoom:hover {
     transform: scale(1.15);
-    filter: brightness(90%);
+    filter: brightness(80%);
 }
 
 .zoom {
-    transition: transform .4s, filter 2s;
+    transition: transform .4s, filter .4s;
 }

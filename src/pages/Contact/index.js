@@ -3,6 +3,7 @@ import "../../styles/output.css"
 import LocationOnIcon from '@material-ui/icons/LocationOn';
 import EmailIcon from '@material-ui/icons/Email';
 import PhoneIcon from '@material-ui/icons/Phone';
+import "./style.css"
 export class Contact extends Component {
     constructor(props) {
         super(props);
@@ -45,13 +46,13 @@ export class Contact extends Component {
                             method="POST">
                             <div className="form-group">
                             <label style={{float: "left"}}>Name:</label>
-                            <input type="text" className="form-control" id="exampleInputName1" name="name" placeholder="Bob Smith" />
+                            <input type="text" className="form-control" id="exampleInputName1" name="name" placeholder="John Deer" />
 
                             </div>
 
                             <div className="form-group">
                             <label style={{float: "left"}}>Email Address:</label>
-                            <input type="email" className="form-control" id="exampleInputEmail1" name="email" placeholder="email@gmail.com" />
+                            <input type="email" className="form-control" id="exampleInputEmail1" name="email" placeholder="example@email.com" />
                             </div>
 
                             <div className="form-group">
@@ -59,7 +60,7 @@ export class Contact extends Component {
                             <textarea name="message" className="form-control" id="exampleFormControlTextarea1" rows="6" />
                             </div>
 
-                            {status === "SUCCESS" ? <p className="success">Thank you for sending me a message!</p> : <button style={{float: "left"}} class="btn btn-success waves-light">Submit</button>}
+                            {status === "SUCCESS" ? <p className="success">Thank you for sending me a message!</p> : <button class="btn btn-success waves-light finish">Submit</button>}
                             {status === "ERROR" && <p className="failure">Ooops! There was an error. Please fill out all the fields and try again!</p>}
                         </form>
                     </div>

@@ -16,6 +16,7 @@ import problem from "./img/problem.png";
 import creative from "./img/creative.png";
 import './style.css'
 import Paper from '@material-ui/core/Paper'
+import CodeIcon from '@material-ui/icons/Code';
 
 
 
@@ -31,7 +32,14 @@ export class About extends Component {
                             <div className="col-lg-4">
                                 <Paper className="paper" elevation={3} style={{width: "100%", height: "370px"}}>
                                     <br />
-                                    <h4> My Favorite Technologies:</h4>
+                                    <img class="mainPic" alt="mainPic" src={headshot} />
+                                </Paper>
+                                <br />
+                            </div>
+                            <div className="col-lg-4">
+                                
+                                <Paper className="paperCenter" elevation={3} style={{width: "100%", height: "370px"}}>
+                                    <h3 style={{paddingTop: "10%"}}> My Favorite Technologies:</h3>
                                     <br />
                                     <br />
                                     <TextLoop>
@@ -74,38 +82,12 @@ export class About extends Component {
                             <div className="col-lg-4">
                                 <Paper className="paper" elevation={3} style={{width: "100%", height: "370px"}}>
                                     <br />
-                                    <img class="mainPic" alt="mainPic" src={headshot} />
-                                </Paper>
-                                <br />
-                            </div>
-                            <div className="col-lg-4">
-                                <Paper className="paper" elevation={3} style={{width: "100%", height: "370px"}}>
-                                    <br />
-                                    <h4>Skills:</h4>
+                                    <CodeIcon className="paperIcon"/>
                                     <br />
                                     <br />
-                                    <TextLoop>
-                                        <div>
-                                            <img src={communication} style={{width: "150px"}} alt="tech"/> 
-                                            <h5>Communication</h5>
-                                        </div>
-                                        <div>
-                                            <img src={collab} style={{width: "150px"}} alt="tech"/> 
-                                            <h5>Collaboration</h5>
-                                        </div>
-                                        <div>
-                                            <img src={problem} style={{width: "150px"}} alt="tech"/> 
-                                            <h5>Problem Solving</h5>
-                                        </div>
-                                        <div>
-                                            <img src={presentation} style={{width: "150px"}} alt="tech"/> 
-                                            <h5>Presentation</h5>
-                                        </div>
-                                        <div>
-                                            <img src={creative} style={{width: "150px"}} alt="tech"/> 
-                                            <h5>Creativity</h5>
-                                        </div>
-                                    </TextLoop>
+                                    <h3>Web Developer</h3>
+                                    <br />
+                                    <h5 style={{width: "80%", marginLeft: "10%"}}>Driven to make you or your company an application that is both highly functional and captivatingly beautiful.</h5>
                                 </Paper>
                             </div>
                         </div>

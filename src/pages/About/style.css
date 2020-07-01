@@ -12,9 +12,14 @@
     position: relative;
     left: 10%;
 }
-
-.paper {
+.paperIcon {
+    font-size: 60px !important;
+}
+.paperCenter {
     background: rgb(219, 219, 219) !important;
+}
+.paper {
+    background: #b9eed5 !important;
 }
 .parallax {
     height: 30vh;
