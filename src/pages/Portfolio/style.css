@@ -6,3 +6,14 @@
 .zoom {
     transition: transform .4s, filter .4s;
 }
+
+.navIcon {
+    transition: transform .4s, color .4s !important;
+    color:  #0c8b50;
+    font-size: 80px !important;
+}
+
+.navIcon:hover {
+    color: rgb(42, 46, 40);
+    transform: scale(1.4);
+}
