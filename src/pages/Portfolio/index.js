@@ -36,7 +36,7 @@ export class Portfolio extends Component {
                     <Banner link="https://project3-healthcarepro.herokuapp.com/" image={hcPro} name="HealthCare Pro" GHlink="https://github.com/keshavsavva/Healthcare-Pro" description="A role-based application that helps doctors and patients with the management of healthcare."/> 
                 </Carousel.Item>
                 <Carousel.Item>
-                    <Banner link="https://limitless-chamber-20765.herokuapp.com/landing.html" image={qStream} name="QuaranStream" GHlink="https://github.com/keshavsavva/QuaranStream" description="QuaranStream: an app for connecting you with content based on your favorite media types and genres"/>
+                    <Banner link="https://quaranstream.herokuapp.com/" image={qStream} name="QuaranStream" GHlink="https://github.com/keshavsavva/QuaranStream" description="QuaranStream: an app for connecting you with content based on your favorite media types and genres"/>
                 </Carousel.Item>
                 <Carousel.Item>
                     <Banner link="https://keshavsavva.github.io/EventHub/" image={eHub} name="EventHub" GHlink="https://github.com/keshavsavva/EventHub" description="EventHub App for finding Public Events based on your location"/> 
