@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import Banner from '../../components/Banner';
 import "../../styles/output.css"
 import codingQuiz from './img/codingQuiz.png'
-import eat from './img/EatDaBurger.png'
 import eHub from './img/eventHub.png'
 import passGen from './img/passGen.png'
 import qStream from './img/quaranstreamLogo.png'
