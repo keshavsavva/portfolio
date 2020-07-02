@@ -6,10 +6,11 @@ import Main from './pages/Main'
 
 function App() {
     return (
-        <HashRouter basename="/">
+        // <HashRouter basename="/">
+        <div className="back">
             <Header />
             <Main />
-        </HashRouter>
+        </div>
     );
   }
   
