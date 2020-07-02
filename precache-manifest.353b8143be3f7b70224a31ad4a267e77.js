@@ -1,31 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a5761c4b6c605111e67fc7793c0e6fcb",
+    "revision": "ba32999c0cbf0d3645f0867dde5112e4",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "d4265a7a7d8a423facb2",
+    "revision": "cf07c9b7605a9dd9210d",
     "url": "/portfolio/static/css/main.4f385cf3.chunk.css"
   },
   {
-    "revision": "9226ba269faa3c5960af",
-    "url": "/portfolio/static/js/2.241511d6.chunk.js"
+    "revision": "b86d5630c957242d9aa5",
+    "url": "/portfolio/static/js/2.069c8a71.chunk.js"
   },
   {
     "revision": "98d85cc27e012592153843ef531b25bd",
-    "url": "/portfolio/static/js/2.241511d6.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.069c8a71.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d4265a7a7d8a423facb2",
-    "url": "/portfolio/static/js/main.f2346812.chunk.js"
+    "revision": "cf07c9b7605a9dd9210d",
+    "url": "/portfolio/static/js/main.4f7cbc59.chunk.js"
   },
   {
     "revision": "9de41cfd101902630250",
     "url": "/portfolio/static/js/runtime-main.cdee8bff.js"
-  },
-  {
-    "revision": "fd18296160e91a04c206f8afa27db23e",
-    "url": "/portfolio/static/media/EatDaBurger.fd182961.png"
   },
   {
     "revision": "e2bc9dbc6cab240b797fcf89d6965fc6",
@@ -36,24 +32,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/IMG_0836.e9443563.jpg"
   },
   {
-    "revision": "69eb99dd6a5925dfe6f2933125b8aa40",
-    "url": "/portfolio/static/media/codingQuiz.69eb99dd.png"
+    "revision": "4195cf989fac0128a89669f40a1e3496",
+    "url": "/portfolio/static/media/bootstrap.4195cf98.png"
   },
   {
-    "revision": "20f35dee0590c0f67907d7615ba73095",
-    "url": "/portfolio/static/media/collab.20f35dee.png"
+    "revision": "4805b7f56a78ce8742b926fd09409f9d",
+    "url": "/portfolio/static/media/codingQuiz.4805b7f5.png"
   },
   {
-    "revision": "7fcefb4fb4fa98acb1b45511cf0de308",
-    "url": "/portfolio/static/media/communication.7fcefb4f.png"
+    "revision": "ab7da72ab46e1af73d2d425164b0e1ef",
+    "url": "/portfolio/static/media/css.ab7da72a.png"
   },
   {
-    "revision": "48861bff4da977a5183c5db1d6eb76c7",
-    "url": "/portfolio/static/media/creative.48861bff.png"
-  },
-  {
-    "revision": "802d45c61cca9d25392329bf77b7abb3",
-    "url": "/portfolio/static/media/eventHub.802d45c6.png"
+    "revision": "c42c5ecd2292975a8a27e70f64ab05b7",
+    "url": "/portfolio/static/media/eventHub.c42c5ecd.png"
   },
   {
     "revision": "662d5cfa3002fcea691d25ec0a20deb7",
@@ -72,16 +64,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/javascript.69b56261.png"
   },
   {
-    "revision": "e1b988b2d13f895faaf91b90019456d4",
-    "url": "/portfolio/static/media/passGen.e1b988b2.png"
+    "revision": "2927cd13c5f8fe0b13bf3c486ffaddb5",
+    "url": "/portfolio/static/media/jquery.2927cd13.png"
   },
   {
-    "revision": "c3ec0acca93b90f585dd5eaaa0aea7a0",
-    "url": "/portfolio/static/media/presentation.c3ec0acc.png"
+    "revision": "785df5444d71022977e06196da29aec0",
+    "url": "/portfolio/static/media/mongo.785df544.png"
   },
   {
-    "revision": "b4ccc0624612e418061747de3c06e1ab",
-    "url": "/portfolio/static/media/problem.b4ccc062.png"
+    "revision": "bab2c760c60f17191cb3a002e08a3dbf",
+    "url": "/portfolio/static/media/mysql.bab2c760.png"
+  },
+  {
+    "revision": "528234aa3ae3f5f644c63921cab09659",
+    "url": "/portfolio/static/media/node.528234aa.png"
+  },
+  {
+    "revision": "dffe4f2f86231a2c2a57723de1d7d07c",
+    "url": "/portfolio/static/media/passGen.dffe4f2f.png"
   },
   {
     "revision": "b3143892fec450372465c01d4bd1b361",
@@ -100,7 +100,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/sass.74c36290.png"
   },
   {
-    "revision": "d9355d2937db20d4cb97447abdea6e97",
-    "url": "/portfolio/static/media/workDay.d9355d29.png"
+    "revision": "3f4b76c07d3acbd6dfcdb8fd6bcace9b",
+    "url": "/portfolio/static/media/workDay.3f4b76c0.png"
   }
 ]);
