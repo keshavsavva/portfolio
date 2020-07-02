@@ -8,12 +8,12 @@ import mongodb from "./img/mongo.png";
 import sass from "./img/sass.png";
 import materialui from "./img/materialui.png";
 import heroku from "./img/heroku.png";
+import mysql from "./img/mysql.png";
+import bootstrap from "./img/bootstrap.png";
+import css from "./img/css.png";
+import html from "./img/html.png";
+import jquery from "./img/jquery.png";
 import headshot from './img/headshot.jpg';
-import presentation from "./img/presentation.png";
-import collab from "./img/collab.png";
-import communication from "./img/communication.png";
-import problem from "./img/problem.png";
-import creative from "./img/creative.png";
 import './style.css'
 import Paper from '@material-ui/core/Paper'
 import CodeIcon from '@material-ui/icons/Code';
@@ -42,7 +42,7 @@ export class About extends Component {
                                     <h3 style={{paddingTop: "10%"}}> My Favorite Technologies:</h3>
                                     <br />
                                     <br />
-                                    <TextLoop>
+                                    <TextLoop interval={2500}>
                                         <div>
                                             <img src={react} style={{width: "150px"}} alt="tech"/> 
                                             <h5>React</h5>
@@ -64,6 +64,10 @@ export class About extends Component {
                                             <h5>Redux</h5>
                                         </div>
                                         <div>
+                                            <img src={mysql} style={{width: "150px"}} alt="tech"/> 
+                                            <h5>My SQL</h5>
+                                        </div>
+                                        <div>
                                             <img src={mongodb} style={{width: "150px"}} alt="tech"/> 
                                             <h5>Mongo DB</h5>
                                         </div>
@@ -72,8 +76,24 @@ export class About extends Component {
                                             <h5>SASS</h5>
                                         </div>
                                         <div>
+                                            <img src={jquery} style={{width: "150px"}} alt="tech"/> 
+                                            <h5>jQuery</h5>
+                                        </div>
+                                        <div>
+                                            <img src={bootstrap} style={{width: "150px"}} alt="tech"/> 
+                                            <h5>Bootstrap</h5>
+                                        </div>
+                                        <div>
                                             <img src={heroku} style={{width: "150px"}} alt="tech"/> 
                                             <h5>Heroku</h5>
+                                        </div>
+                                        <div>
+                                            <img src={css} style={{width: "150px"}} alt="tech"/> 
+                                            <h5>CSS</h5>
+                                        </div>
+                                        <div>
+                                            <img src={html} style={{width: "150px"}} alt="tech"/> 
+                                            <h5>HTML</h5>
                                         </div>
                                     </TextLoop>
                                 </Paper>
