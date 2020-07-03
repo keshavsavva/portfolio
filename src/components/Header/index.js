@@ -145,6 +145,11 @@ export default function Header() {
                         About
                     </MenuItem>
                 </a>
+                <a className={classes.menuLinks} href="#experience">
+                    <MenuItem className={classes.menu}>
+                        Skills
+                    </MenuItem>
+                </a>
                 <a className={classes.menuLinks} href="#portfolio">
                     <MenuItem className={classes.menu}>
                         Portfolio
@@ -201,6 +206,14 @@ export default function Header() {
                                 href="#about"
                             >
                                 About
+                            </a>
+                        </Typography>
+                        <Typography className={classes.title} variant="h8" noWrap>
+                            <a
+                                className={classes.links}
+                                href="#experience"
+                            >
+                                Skills
                             </a>
                         </Typography>
                         <Typography className={classes.title} variant="h8" noWrap>

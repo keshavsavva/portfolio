@@ -4,6 +4,7 @@ import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import ArrowDropDownCircleIcon from '@material-ui/icons/ArrowDropDownCircle';
 import Portfolio from '../Portfolio';
 import About from '../About';
+import Experience from '../Experience'
 import Contact from '../Contact';
 import Footer from '../../components/Footer';
 import streakPhoto from './IMG_0836.jpg'
@@ -24,12 +25,18 @@ export class Main extends Component {
                     </div>
                 </div>
                 <About />
+                <section className='section feature-box py-5' id="experience">
+                    <div className='container'>
+                        <Experience />
+                    </div>
+                </section>
                 <section className='text-center section feature-box py-5' id="portfolio">
                     <div className='container'>
                         <h2 className="my-4 display-4">My <span class='font-weight-bold greenText'>Portfolio</span></h2>
                         <Portfolio />
                     </div>
                 </section>
+                
                 <div className='parallax'>
 
                 </div>
