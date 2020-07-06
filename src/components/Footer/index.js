@@ -9,7 +9,7 @@ export class Footer extends Component {
                 <section className="container text-center">
                     <div className="row">
                         <div className="col-lg-12">
-                            <h3>Are you looking for a well designed and functional project? Just send me a message and we will make it happen!</h3>
+                            <h3>Are you looking for a well designed and functional project? Just send me a message to make it happen!</h3>
                         </div>
                     </div>
                     <br />

@@ -41,7 +41,7 @@ export class Portfolio extends Component {
                 <Carousel.Item>
                     <Banner link="https://keshavsavva.github.io/EventHub/" image={eHub} name="EventHub" GHlink="https://github.com/keshavsavva/EventHub" description="EventHub App for finding Public Events based on your location"/> 
                 </Carousel.Item>
-                <Carousel.Item>
+                {/* <Carousel.Item>
                     <Banner link="https://keshavsavva.github.io/Work-Day-Scheduler/" image={workDay} name="Work Day Scheduler" GHlink="https://github.com/keshavsavva/Work-Day-Scheduler" description="An application for scheduling you Work Day."/> 
                 </Carousel.Item>
                 <Carousel.Item>
@@ -49,7 +49,7 @@ export class Portfolio extends Component {
                 </Carousel.Item>
                 <Carousel.Item>
                 <Banner link="https://keshavsavva.github.io/Password-Generator/" image={passGen} name="Password Generator"  GHlink="https://github.com/keshavsavva/Password-Generator" description="Generates a random password based off of your required inputs"/>
-                </Carousel.Item>
+                </Carousel.Item> */}
             </Carousel>
         )
     }
